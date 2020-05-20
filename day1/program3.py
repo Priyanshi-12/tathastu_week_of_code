@@ -1,10 +1,7 @@
-Name=input("ENTER Name")
-Branch=input("enter Branch")
-gender=input("enter gender")
-college=input("enter college")
-age=int(input("enter age"))
-print(Name,Name)
-print(Branch,Branch)
-print(gender,gender)
-print(college,college)
-print(age,age)
+a=int(input("no"))
+b=int(input("no"))
+a=a+b
+b=a-b
+a=a-b
+print(a)
+print(b)
